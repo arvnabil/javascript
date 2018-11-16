@@ -1,7 +1,7 @@
 var message = "Hello Coding";
-let msg1 = "hallo";
+let msg1 = "Hallo";
 
-const msg2 = "coding";
+const msg2 = "Coding";
 
 if (true) {
   var message = "Hello ke 2";
