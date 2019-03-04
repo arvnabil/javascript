@@ -4,7 +4,7 @@ function panggilBilanganKelipatan()  {
         if(i%5 === 0){
             data.push(i)
         }
-    }
+    } 
 
     return data
 
